@@ -12,7 +12,7 @@
         {
             "accessory": "Thermostat",
             "name": "Toon Thermostaat",
-            "apiroute": "http://YourToonIP",
+            "apiroute": "http://192.168.1.199",
             //optional
             "maxTemp": "26",
             "minTemp": "15"
